@@ -5,9 +5,9 @@ const AnalyticsCharts = ({ title, data, datakey }) => {
 
 
     return (
-        <div className='bg-white mt-4'>
+        <div className='bg-white mt-4 shadow-sm rounded p-1 '>
 
-            <h1 className='text-xl my-1 text-[#555657] font-bold'>{title}</h1>
+            <h1 className='heading'>{title}</h1>
 
 
             <ResponsiveContainer width="100%" aspect={5 / 2}>

@@ -14,3 +14,7 @@
     display: flex;
     
 }
+.m-icon{ 
+    color: grey;
+    font-size: 22px !important;
+}
